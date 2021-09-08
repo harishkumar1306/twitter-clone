@@ -1,6 +1,8 @@
 <template>
   <div id="app" class="flex container h-screen w-full">
     <!-- side nav -->
+    <h2>hey</h2>
+    <h3>buddy</h3>
     <div
       class="lg:w-1/5 border-r border-lighter px-2 lg:px-6 py-2 flex flex-col justify-between"
     >
